@@ -1,6 +1,6 @@
 #  YouTube Metadata Generator
 
-Este é um projeto que permite aos usuários carregarem vídeos e obter transcrições automaticamente. Além disso, a inteligência artificial gera automaticamente um título e uma descrição para o YouTube com base no conteúdo do vídeo.
+Este é um projeto que permite aos usuários carregarem vídeos e obterem a transcrição automaticamente. Para com o auxílio da inteligência artificial gerar um título e uma descrição para o YouTube com base no conteúdo do vídeo.
 
 ## Funcionalidades
 
